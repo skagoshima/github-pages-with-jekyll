@@ -1,8 +1,4 @@
 ---
-title: "Welcome to my blog"
+title: "Your blog post title"
 date: 2020-07-06
 ---
-
-# first blog title
-### 最初のブログです。
-最初に書きました。
